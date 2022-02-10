@@ -1,0 +1,7 @@
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ-next\bin\Debug\LINQ-next.exe.config
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ-next\bin\Debug\LINQ-next.exe
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ-next\bin\Debug\LINQ-next.pdb
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ-next\obj\Debug\LINQ-next.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ-next\obj\Debug\LINQ-next.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ-next\obj\Debug\LINQ-next.exe
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ-next\obj\Debug\LINQ-next.pdb

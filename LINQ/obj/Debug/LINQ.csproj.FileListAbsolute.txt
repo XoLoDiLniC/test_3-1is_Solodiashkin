@@ -1,0 +1,8 @@
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\bin\Debug\LINQ.exe
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\obj\Debug\LINQ.exe
+C:\Users\Андрей\Documents\GitHub\test_3-1is_Solodiashkin\LINQ\obj\Debug\LINQ.pdb
